@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nourataher92
 - 👀 I’m interested in 3D Hologram
-- 🌱 I’m currently learning Master's degree
+- 🌱 I’m currently learning Master's degree in Education
 - 💞️ I’m looking to collaborate on machine learning and Artificial intelligence
 - 📫 How to reach me ...
 
